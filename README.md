@@ -18,14 +18,14 @@ The `Extended_final_table` files contain the following information:
 - **For 18S and ITS**: `OtuXY`
   - Identifiers match the identifiers in the corresponding `.fasta` files.
   - Unique within each PEMA run, but `Otu1` in two runs doesn't represent the same sequence.
-  - ⚠️ Due to an error in PEMA when processing ITS, the identifiers are of the format `OtuXY` even though they represent ASVs clustered using Swarm v2.
+  - Due to an error in PEMA when processing ITS, the identifiers are of the format `OtuXY` even though they represent ASVs clustered using Swarm v2.
 
 ### Other columns:
 
 - Columns up to the **third last column**: Read counts per sample (material sample IDs).
 - **Second last column**: Full taxonomic classification string from the reference database.
-  - 📝 For COI, PEMA didn’t copy the species-level name; it was added later using code in `code_release_001` (see `updated_taxonomic_assignments` for details).
-  - 📝 For 18S, taxonomy was curated for compatibility with NCBI and WoRMS (required for EurOBIS submission).
+  - For COI, PEMA didn’t copy the species-level name; it was added later using code in `code_release_001` (see `updated_taxonomic_assignments` for details).
+  - For 18S, taxonomy was curated for compatibility with NCBI and WoRMS (required for EurOBIS submission).
 
 - **Last column**: NCBI taxon ID and taxon name for the lowest assignable level.
 
@@ -65,7 +65,7 @@ Additionally, we provide files indicating:
 ## Taxonomy Correction
 
 The taxonomic assignments from PEMA for **COI** and **18S** have been curated due to various issues. Code is available in:  
-🔗 [`code_release_001`](https://github.com/arms-mbon/code_release_001)
+ [`code_release_001`](https://github.com/arms-mbon/code_release_001)
 
 ### COI (Bug in PEMA v2.1.4)
 
