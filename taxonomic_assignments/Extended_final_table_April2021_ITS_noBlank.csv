@@ -1,0 +1,167 @@
+OTU,ARMS_BelgiumCoast_AJJC86_20200506_20201012_MF100_s1_r1,ARMS_TZS_Angbat_20200608_20201117_MF100_ETOH_s1_r1,ARMS_TZS_Angbat_20200608_20201117_MF500_ETOH_s1_r1,ARMS_TZS_Angbat_20200608_20201117_SF40_ETOH_s1_r1,ARMS_TZS_Kummelkobben_20200608_20201120_MF100_ETOH_s1_r1,ARMS_TZS_Kummelkobben_20200608_20201120_SF40_ETOH_s1_r1,ARMS_Getxo_G1_20200624_20201103_MF100_s1_r1,ARMS_Getxo_G1_20200624_20201103_MF500_s1_r1,ARMS_Getxo_G1_20200624_20201103_SF40_s1_r1,ARMS_Getxo_G2_20200624_20201103_MF100_s1_r1,ARMS_Getxo_G2_20200624_20201103_SF40_s1_r1,ARMS_Getxo_G3_20200624_20201103_MF100_s1_r1,ARMS_Getxo_G3_20200624_20201103_SF40_s1_r1,Classification,TAXON.NCBI_TAX_ID
+Otu238,0,0,25,0,0,0,2,0,0,0,3,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Malasseziomycetes;Malasseziales;Malasseziaceae;Malassezia;Unknown Malassezia species 1,Malassezia:55193
+Otu1218,0,0,0,0,0,0,0,0,0,1,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Unknown Aspergillaceae genus 1,Aspergillaceae:1131492
+Otu1321,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;unidentified (Pleosporales) family incertae sedis;unidentified (unidentified (Pleosporales));Unknown unidentified (unidentified (Pleosporales)) species 1,Pleosporales:92860
+Otu310,0,0,0,0,0,0,0,0,0,0,0,13,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Metarhizium;Metarhizium_marquandii,Metarhizium marquandii:64636
+Otu317,0,0,0,0,0,0,0,0,15,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Unknown Sordariomycetes order 3,Sordariomycetes:147550
+Otu1033,0,0,0,0,0,0,0,0,0,1,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Unknown Pleosporales family 2,Pleosporales:92860
+Otu955,0,0,0,0,0,0,0,0,2,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Chaetosphaeriales;Unknown Chaetosphaeriales family 1,Chaetosphaeriales:261460
+Otu178,0,0,0,0,0,0,0,0,50,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Taphrinomycetes;Taphrinales;Taphrinaceae;Taphrina;Taphrina_inositophila,Taphrina inositophila:231972
+Otu63,0,0,0,0,0,0,187,0,0,0,0,7,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria,Alternaria:5598
+Otu64,0,0,0,0,0,0,0,0,278,0,29,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma;Unknown Trichoderma species 1,Trichoderma:5543
+Otu66,0,0,0,0,0,0,0,0,0,204,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Didymosphaeriaceae;Paraconiothyrium;Unknown Paraconiothyrium species 1,Paraconiothyrium:300251
+Otu197,0,0,0,0,0,0,0,0,40,0,2,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Unknown Hypocreales family 1,Hypocreales:5125
+Otu1209,0,0,0,0,0,0,0,0,0,0,0,1,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Pleosporaceae;Alternaria;Alternaria_infectoria,Alternaria infectoria:45303
+Otu1049,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium_steckii,Penicillium steckii:303698
+Otu780,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Trichocomaceae;Unknown Trichocomaceae genus 2,Trichocomaceae:28568
+Otu545,0,0,0,0,0,0,3,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Pezizomycotina_cls_Incertae_sedis;Unknown Pezizomycotina_cls_Incertae_sedis order 1,Ascomycota:4890
+Otu544,0,0,0,0,0,0,0,0,1,2,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Cucurbitariaceae;Pyrenochaetopsis;Pyrenochaetopsis_leptospora,Pyrenochaetopsis leptospora:798152
+Otu1029,0,0,0,0,0,0,0,0,0,0,2,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;unidentified (Saccharomycetales) family incertae sedis;unidentified (unidentified (Saccharomycetales));Saccharomycetales_sp,Saccharomycetales:4892
+Otu307,0,0,0,0,0,0,13,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Unknown Dothideomycetes order 4,Dothideomycetes:147541
+Otu302,0,0,0,0,0,0,0,0,15,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Onygenales;unidentified (Onygenales) family incertae sedis;unidentified (unidentified (Onygenales));Unknown unidentified (unidentified (Onygenales)) species 1,Onygenales:33183
+Otu301,0,0,0,0,0,0,0,7,0,0,16,8,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Hypocreales_fam_Incertae_sedis;Acremonium,Acremonium:159075
+Otu165,0,0,0,48,0,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Unknown Sordariomycetes order 1,Sordariomycetes:147550
+Otu164,0,0,0,0,0,0,0,0,58,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Chaetosphaeriales;Chaetosphaeriaceae;Chloridium;Chloridium_sp,Chloridium:139961
+Otu168,0,0,0,0,0,0,0,0,100,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Rozellomycota;Rozellomycota_cls_Incertae_sedis;GS11;Unknown GS11 family 1,Rozellomycota:1031332
+Otu74,0,0,0,0,0,0,0,102,203,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Tremellomycetes;Tremellales;Tremellaceae;Cryptococcus;Cryptococcus_sp,Cryptococcus:79213\n5206
+Otu1039,0,0,0,0,0,0,0,0,0,0,1,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Unknown Leotiomycetes order 2,Leotiomycetes:147548
+Otu952,0,0,1,0,0,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Unknown Fungi phylum 4,Fungi:4751
+Otu374,0,0,0,0,0,0,8,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Sporormiaceae;Westerdykella;Westerdykella_dispersa,Westerdykella dispersa:45154
+Otu195,0,0,0,0,0,0,0,0,36,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Rozellomycota;Unknown Rozellomycota class 2,Rozellomycota:1031332
+Otu192,0,0,0,0,0,0,41,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Rozellomycota;Unknown Rozellomycota class 1,Rozellomycota:1031332
+Otu190,0,0,0,0,0,0,0,0,42,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Fusarium;Unknown Fusarium species 1,Fusarium:5506
+Otu191,0,0,0,0,0,0,0,0,0,0,47,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Cutaneotrichosporon;Cutaneotrichosporon_sp,Cutaneotrichosporon:1838142
+Otu46,0,0,0,0,0,0,19,0,306,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Tremellomycetes,Tremellomycetes:155616
+Otu44,0,0,0,0,0,0,76,0,0,0,139,87,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Apiotrichum;Apiotrichum_laibachii,Apiotrichum laibachii:82520
+Otu43,0,0,0,0,0,0,17,0,297,0,60,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Phallales;Phallaceae;Phallus;Unknown Phallus species 1,Phallus:146780
+Otu42,0,0,0,0,0,0,0,0,53,270,0,17,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Hyaloscyphaceae;Unknown Hyaloscyphaceae genus 1,Hyaloscyphaceae:47743
+Otu1318,0,0,0,0,0,0,0,0,0,1,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Sclerotiniaceae,Sclerotiniaceae:28983
+Otu567,3,0,0,0,0,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetales_fam_Incertae_sedis;Candida;Candida_diddensiae,Candida diddensiae:45543
+Otu566,0,0,0,0,0,0,0,0,0,0,0,4,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Unknown Basidiomycota class 1,Basidiomycota:5204
+Otu564,0,0,0,0,0,0,0,0,0,0,3,1,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Myxotrichaceae;Oidiodendron;Unknown Oidiodendron species 2,Oidiodendron:78141
+Otu560,0,0,0,0,0,0,3,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Unknown Eurotiales family 1,Eurotiales:5042
+Otu218,0,1,0,0,0,0,0,0,0,0,0,29,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Saccharomycetales_fam_Incertae_sedis;Candida;Candida_sake,Candida sake:39397
+Otu363,0,0,0,0,0,0,0,12,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Nectriaceae;Nectria;Nectria_pseudopeziza,Nectria pseudopeziza:1835339
+Otu362,0,0,0,0,0,0,20,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Unknown Fungi phylum 1,Fungi:4751
+Otu1344,0,0,0,0,0,0,0,0,0,1,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Cucurbitariaceae;Pyrenochaetopsis;Unknown Pyrenochaetopsis species 1,Pyrenochaetopsis:798144
+Otu189,0,0,0,0,0,0,0,41,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Rozellomycota;unidentified (Rozellomycota) class incertae sedis;unidentified (Rozellomycota) order incertae sedis;unidentified (Rozellomycota) family incertae sedis;unidentified (unidentified (unidentified (unidentified (Rozellomycota))));Unknown unidentified (unidentified (unidentified (unidentified (Rozellomycota)))) species 1,Rozellomycota:1031332
+Otu185,0,0,0,0,0,0,0,0,82,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota_adiposa,Pholiota adiposa:64639
+Otu184,0,0,0,0,0,0,46,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Thyridariaceae;Roussoella;Roussoella_solani,Roussoella solani:1871389
+Otu181,0,0,0,0,0,0,0,0,49,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Unknown Pleosporales family 1,Pleosporales:92860
+Otu180,0,0,0,0,0,0,29,0,56,0,0,31,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Bionectriaceae;Clonostachys;Clonostachys_rosea,Clonostachys:110564
+Otu183,0,0,0,0,0,0,0,0,0,48,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Unknown Dothideomycetes order 1,Dothideomycetes:147541
+Otu337,0,0,0,0,0,0,12,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Ophiocordycipitaceae;Tolypocladium,Tolypocladium:29909
+Otu58,0,0,0,0,0,0,0,0,219,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;unidentified (Fungi) phylum incertae sedis;unidentified (Fungi) class incertae sedis;unidentified (Fungi) order incertae sedis;unidentified (Fungi) family incertae sedis;Unknown unidentified (Fungi) family incertae sedis genus 1,Fungi:4751
+Otu50,25,0,0,0,0,0,10,0,347,17,0,4,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Capnodiales;Mycosphaerellaceae;Mycosphaerella;Mycosphaerella_tassiana,Mycosphaerella tassiana:29918
+Otu51,0,0,0,0,0,0,0,0,72,125,0,36,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Capnodiales;Cladosporiaceae;Cladosporium;Cladosporium_delicatulum,Cladosporium delicatulum:887075
+Otu54,0,0,0,0,226,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;unidentified (Herpotrichiellaceae);Herpotrichiellaceae_sp,Herpotrichiellaceae:43219
+Otu349,0,0,0,0,0,0,10,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Xylariales;Xylariales_fam_Incertae_sedis;Hansfordia;Hansfordia_pulvinata,Hansfordia pulvinata:767359
+Otu347,0,0,0,0,0,0,11,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Cystobasidiomycetes;Cystobasidiomycetes_ord_Incertae_sedis;Cystobasidiomycetes_fam_Incertae_sedis;Symmetrospora;Symmetrospora_foliicola,Symmetrospora foliicola:5434
+Otu513,0,0,0,0,0,0,5,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Cystobasidiomycetes;Cystobasidiomycetes_ord_Incertae_sedis;Cystobasidiomycetes_fam_Incertae_sedis;Buckleyzyma;Unknown Buckleyzyma species 1,Buckleyzyma:1798813
+Otu738,0,0,0,0,0,0,3,0,6,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Didymosphaeriaceae;Paraconiothyrium,Paraconiothyrium:300251
+Otu226,0,0,0,0,0,0,28,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Unknown Agaricales family 2,Agaricales:5338
+Otu358,0,0,0,0,0,0,0,0,0,0,0,9,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Phaffomycetaceae;Barnettozyma;Barnettozyma_californica,Barnettozyma californica:36038
+Otu429,0,0,0,0,0,0,0,0,0,0,0,7,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Sordariales;Lasiosphaeriaceae;Unknown Lasiosphaeriaceae genus 1,Lasiosphaeriaceae:42302
+Otu80,0,0,0,0,0,0,0,0,200,0,20,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;unidentified (Sordariomycetes) order incertae sedis;unidentified (Sordariomycetes) family incertae sedis;unidentified (unidentified (unidentified (Sordariomycetes)));Sordariomycetes_sp,Sordariomycetes:147550
+Otu1062,0,0,0,0,0,0,1,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Conioscyphales;Unknown Conioscyphales family 2,Conioscyphales:1809179
+Otu729,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Unknown Ascomycota class 3,Ascomycota:4890
+Otu431,0,0,0,0,0,0,8,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Didymosphaeriaceae;Paraphaeosphaeria;Unknown Paraphaeosphaeria species 1,Paraphaeosphaeria:125369
+Otu448,0,0,0,0,0,0,11,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Chaetothyriales;Herpotrichiellaceae;Cladophialophora;Cladophialophora_arxii,Cladophialophora arxii:82108
+Otu236,0,0,0,0,0,0,0,0,28,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Unknown Hypocreaceae genus 1,Hypocreaceae:5129
+Otu235,0,0,0,0,0,0,0,30,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Tricholomataceae;Clitocybe;Unknown Clitocybe species 1,Clitocybe:50966
+Otu230,0,0,0,0,0,0,0,0,28,0,0,3,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Trichocomaceae;Talaromyces;Talaromyces_euchlorocarpius,Talaromyces:5094
+Otu4,0,0,0,0,0,0,0,1,4350,171,28,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Debaryomyces;Debaryomyces_hansenii,Debaryomyces hansenii:4959
+Otu746,0,0,0,0,0,0,0,0,0,0,1,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Tremellomycetes;Trichosporonales;Trichosporonaceae;Apiotrichum,Apiotrichum:105983
+Otu99,0,0,0,0,0,0,6,0,12,91,9,8,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Unknown Leotiomycetes order 1,Leotiomycetes:147548
+Otu95,0,0,0,0,0,0,20,0,30,117,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium_bialowiezense,Penicillium bialowiezense:293381
+Otu93,0,0,0,0,108,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Glomerellales;Plectosphaerellaceae;Plectosphaerella;Unknown Plectosphaerella species 1,Plectosphaerella:40657
+Otu409,0,0,0,0,0,0,9,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Unknown Sordariomycetes order 4,Sordariomycetes:147550
+Otu403,7,0,0,0,0,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;unidentified (Hypocreales) family incertae sedis;unidentified (unidentified (Hypocreales));Unknown unidentified (unidentified (Hypocreales)) species 1,Hypocreales:5125
+Otu405,0,0,0,0,0,0,7,0,0,0,0,6,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Didymellaceae;Didymella,Didymella:55170
+Otu392,0,0,0,0,0,0,0,0,11,0,0,2,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium,Penicillium:5073
+Otu394,0,0,0,0,0,0,1,0,7,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales,Eurotiales:5042
+Otu397,0,0,0,0,0,0,0,0,0,0,0,7,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Leotiomycetes_ord_Incertae_sedis;Pseudeurotiaceae;Pseudeurotium;Pseudeurotium_ovale,Pseudeurotium ovale:205927
+Otu711,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Onygenales;unidentified (Onygenales) family incertae sedis;Unknown unidentified (Onygenales) family incertae sedis genus 1,Onygenales:33183
+Otu712,0,0,0,0,0,0,0,0,6,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Agaricaceae;Unknown Agaricaceae genus 1,Agaricaceae:5339
+Otu249,0,0,0,0,0,0,0,0,24,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Unknown Sordariomycetes order 2,Sordariomycetes:147550
+Otu865,0,0,0,0,0,0,2,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Unknown Agaricomycetes order 1,Agaricomycetes:155619
+Otu527,0,0,0,0,0,0,0,0,7,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Capnodiales;Cladosporiaceae;Cladosporium;Cladosporium_sphaerospermum,Cladosporium sphaerospermum:92950
+Otu1282,0,0,0,0,0,0,0,1,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Malasseziomycetes;Malasseziales;Malasseziaceae;Malassezia;Unknown Malassezia species 3,Malassezia:55193
+Otu417,0,0,0,0,0,0,0,0,0,0,0,7,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Diaporthales;Gnomoniaceae;Gnomoniopsis;Gnomoniopsis_idaeicola,Gnomoniopsis idaeicola:925762
+Otu418,0,0,0,0,0,0,7,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Physalacriaceae;Armillaria;Unknown Armillaria species 1,Armillaria:47424
+Otu387,0,0,0,0,0,0,0,0,0,0,0,8,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Microbotryomycetes;unidentified (Microbotryomycetes) order incertae sedis;unidentified (Microbotryomycetes) family incertae sedis;unidentified (unidentified (unidentified (Microbotryomycetes)));Unknown unidentified (unidentified (unidentified (Microbotryomycetes))) species 1,Microbotryomycetes:162481
+Otu385,0,0,0,0,0,0,0,0,0,0,9,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Rozellomycota;Rozellomycota_cls_Incertae_sedis;Unknown Rozellomycota_cls_Incertae_sedis order 1,Rozellomycota:1031332
+Otu384,0,0,0,0,0,0,8,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Mortierellomycota;Mortierellomycetes;Mortierellales;Mortierellaceae;Mortierella;Unknown Mortierella species 1,Mortierella:4855
+Otu254,0,0,0,0,0,0,0,0,24,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Debaryomycetaceae;Yamadazyma;Yamadazyma_triangularis,Yamadazyma triangularis:45515
+Otu256,0,0,0,0,0,0,0,0,30,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Unknown Eurotiomycetes order 1,Eurotiomycetes:147545
+Otu259,0,0,0,0,0,0,0,0,21,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Russulales;unidentified (Russulales) family incertae sedis;unidentified (unidentified (Russulales));Unknown unidentified (unidentified (Russulales)) species 1,Russulales:452342
+Otu258,0,0,0,0,0,0,21,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Capnodiales;Unknown Capnodiales family 1,Capnodiales:134362
+Otu463,0,0,0,0,0,0,0,0,5,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Clavicipitaceae;Metarhizium;Unknown Metarhizium species 1,Metarhizium:5529
+Otu466,0,0,0,0,0,0,0,0,0,0,0,5,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Unknown Ascomycota class 2,Ascomycota:4890
+Otu601,0,0,0,0,0,0,0,0,2,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Unknown Eurotiomycetes order 2,Eurotiomycetes:147545
+Otu269,0,0,0,0,0,0,0,0,25,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium,Penicillium:5073
+Otu266,0,0,0,0,0,0,0,20,20,0,21,2,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma,Trichoderma:5543
+Otu263,0,0,0,0,0,0,0,0,23,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Unknown Saccharomycetales family 1,Saccharomycetales:4892
+Otu116,0,0,0,0,0,0,54,12,0,0,0,36,0,Cellular organisms;Eukaryota;Opisthokonta;Animalia;Cnidaria;unidentified (Cnidaria) class incertae sedis;unidentified (Cnidaria) order incertae sedis;unidentified (Cnidaria) family incertae sedis;Unknown unidentified (Cnidaria) family incertae sedis genus 1,Cnidaria:6073
+Otu117,0,0,0,0,0,0,0,0,0,78,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Venturiales;Venturiaceae;Venturia;Venturia_minuta,Venturia:5024\n92443
+Otu110,0,0,0,0,0,0,0,0,83,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Agaricaceae;Lacrymaria;Lacrymaria_lacrymabunda,Lacrymaria lacrymabunda:230796
+Otu118,0,0,0,0,0,0,0,0,0,0,74,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricostilbomycetes;Agaricostilbales;Agaricostilbaceae;Sterigmatomyces;Sterigmatomyces_halophilus,Sterigmatomyces halophilus:5617
+Otu283,0,0,0,0,0,0,0,0,17,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Polyporales;Ganodermataceae;Ganoderma;Ganoderma_australe,Ganoderma australe:34457
+Otu1440,0,1,0,0,0,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Hypholoma;Unknown Hypholoma species 1,Hypholoma:71944
+Otu474,0,0,0,0,0,0,0,0,0,0,0,5,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Teichosporaceae;unidentified (Teichosporaceae);Teichosporaceae_sp,Teichosporaceae:147544
+Otu619,0,0,0,0,0,0,2,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes,Agaricomycetes:155619
+Otu279,0,0,0,0,0,0,17,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Arthopyreniaceae;Arthopyrenia;Arthopyrenia_salicis,Arthopyrenia salicis:278010
+Otu270,0,0,0,0,0,0,0,0,0,0,27,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Cystobasidiomycetes;Cystobasidiales;Cystobasidiaceae;Cystobasidium;Cystobasidium_slooffiae,Cystobasidium slooffiae:106018
+Otu100,0,0,0,0,70,0,0,0,0,0,21,3,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Microbotryomycetes;Sporidiobolales;Sporidiobolaceae;Rhodotorula;Rhodotorula_mucilaginosa,Rhodotorula mucilaginosa:5537
+Otu292,0,0,0,0,0,0,18,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Mucoromycota;Umbelopsidomycetes;Umbelopsidales;Umbelopsidaceae;Umbelopsis;Umbelopsis_sp,Umbelopsis:64561
+Otu298,0,0,0,0,0,0,0,0,15,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Helotiales_fam_Incertae_sedis;Unknown Helotiales_fam_Incertae_sedis genus 1,Helotiales:5178
+Otu327,0,0,0,0,0,0,8,0,0,0,8,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Unknown Dothideomycetes order 3,Dothideomycetes:147541
+Otu322,0,0,0,0,0,0,0,0,16,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales,Pleosporales:92860
+Otu855,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Strophariaceae;Pholiota;Pholiota_adiposa,Pholiota adiposa:64639
+Otu854,1,0,0,0,0,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Malasseziomycetes;Malasseziales;Malasseziaceae;Malassezia;Unknown Malassezia species 2,Malassezia:55193
+Otu401,0,0,0,0,0,0,9,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Cordycipitaceae;Beauveria;Beauveria_pseudobassiana,Beauveria pseudobassiana:931006
+Otu1381,0,0,0,0,0,0,0,0,2,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;unidentified (Sordariomycetes) order incertae sedis;unidentified (Sordariomycetes) family incertae sedis;unidentified (unidentified (unidentified (Sordariomycetes)));Sordariomycetes_sp,Sordariomycetes:147550
+Otu149,0,0,0,0,0,0,0,0,0,66,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Myxotrichaceae;Oidiodendron;Unknown Oidiodendron species 1,Oidiodendron:78141
+Otu148,0,0,0,0,0,0,0,0,59,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Unknown Agaricales family 1,Agaricales:5338
+Otu1090,0,0,0,0,0,0,0,0,0,0,1,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Glomerellales;Plectosphaerellaceae;Musicillium;Musicillium_theobromae,Musicillium theobromae:132135
+Otu593,0,0,0,0,0,0,0,0,0,0,4,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;unidentified (Helotiales) family incertae sedis;Unknown unidentified (Helotiales) family incertae sedis genus 1,Helotiales:5178
+Otu597,0,0,0,0,0,0,0,0,2,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Trichocomaceae;Unknown Trichocomaceae genus 1,Trichocomaceae:28568
+Otu146,0,0,0,0,0,0,60,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;unidentified (Ascomycota) class incertae sedis;unidentified (Ascomycota) order incertae sedis;unidentified (Ascomycota) family incertae sedis;unidentified (unidentified (unidentified (unidentified (Ascomycota))));Unknown unidentified (unidentified (unidentified (unidentified (Ascomycota)))) species 1,Ascomycota:4890
+Otu1364,0,0,0,0,0,0,2,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Unknown Helotiales family 1,Helotiales:5178
+Otu1360,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Unknown Hypocreales family 3,Hypocreales:5125
+Otu242,0,0,0,0,0,0,27,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Unknown Dothideomycetes order 2,Dothideomycetes:147541
+Otu244,0,0,0,0,0,0,0,0,27,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Sordariales;Unknown Sordariales family 1,Sordariales:5139
+Otu245,0,0,0,0,0,0,0,0,23,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Bionectriaceae,Bionectriaceae:103887
+Otu29,0,0,0,0,0,0,24,226,147,446,0,4,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Hypocreaceae;Trichoderma,Trichoderma:5543
+Otu28,0,0,0,0,0,0,0,0,550,0,147,0,6,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;unidentified (Saccharomycetales) family incertae sedis;unidentified (unidentified (Saccharomycetales));Saccharomycetales_sp,Saccharomycetales:4892
+Otu26,0,0,0,0,0,0,21,8,192,549,0,3,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Cucurbitariaceae;Pyrenochaetopsis;Pyrenochaetopsis_leptospora,Pyrenochaetopsis leptospora:798152
+Otu585,0,0,0,0,0,0,2,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Unknown Fungi phylum 3,Fungi:4751
+Otu1173,0,0,0,0,0,0,1,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Agaricales;Unknown Agaricales family 3,Agaricales:5338
+Otu458,0,0,0,0,0,0,7,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;unidentified (Pleosporales) family incertae sedis;unidentified (unidentified (Pleosporales));Pleosporales_sp,Pleosporales:92860
+Otu452,0,0,0,0,0,0,6,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Unknown Ascomycota class 1,Ascomycota:4890
+Otu451,0,0,0,0,0,0,8,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Hypocreales_fam_Incertae_sedis;Acremonium;Unknown Acremonium species 1,Acremonium:159075
+Otu450,0,0,0,0,0,0,6,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota,Ascomycota:4890
+Otu909,0,0,0,0,0,0,1,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Unknown Helotiales family 2,Helotiales:5178
+Otu905,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales,Pleosporales:92860
+Otu835,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Unknown Eurotiales family 2,Eurotiales:5042
+Otu37,0,0,0,0,0,0,0,0,0,492,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;unidentified (Pleosporales) family incertae sedis;unidentified (unidentified (Pleosporales));Pleosporales_sp,Pleosporales:92860
+Otu425,0,0,0,0,0,0,0,0,0,0,0,7,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Biatriosporaceae;Biatriospora;Unknown Biatriospora species 1,Biatriospora:679174
+Otu1181,0,0,0,0,0,0,0,0,0,0,1,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Polyporales;Unknown Polyporales family 1,Polyporales:5303
+Otu423,0,0,0,0,0,0,7,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Unknown Sordariomycetes order 5,Sordariomycetes:147550
+Otu1345,0,0,0,0,0,0,0,0,1,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales,Pleosporales:92860
+Otu421,0,0,0,0,0,0,0,0,0,0,8,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Unknown Dothideomycetes order 5,Dothideomycetes:147541
+Otu152,0,0,0,0,0,0,0,0,58,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;unidentified (Sordariomycetes) order incertae sedis;unidentified (Sordariomycetes) family incertae sedis;unidentified (unidentified (unidentified (Sordariomycetes)));Sordariomycetes_sp,Sordariomycetes:147550
+Otu153,0,0,0,0,0,0,62,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;unidentified (Fungi) phylum incertae sedis;unidentified (Fungi) class incertae sedis;unidentified (Fungi) order incertae sedis;unidentified (Fungi) family incertae sedis;Unknown unidentified (Fungi) family incertae sedis genus 2,Fungi:4751
+Otu151,0,0,0,0,0,54,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Sordariales;Chaetomiaceae;Chaetomium;Chaetomium_acropullum,Chaetomium acropullum:1036258
+Otu154,0,0,0,0,0,0,0,0,60,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Dothideomycetes;Pleosporales;Thyridariaceae;unidentified (Thyridariaceae);Unknown unidentified (Thyridariaceae) species 1,Thyridariaceae:1540118
+Otu933,0,0,0,0,0,0,0,0,0,0,1,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium,Penicillium:5073
+Otu216,0,0,0,0,0,0,0,0,35,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;unidentified (Hypocreales) family incertae sedis;unidentified (unidentified (Hypocreales));Hypocreales_sp,Hypocreales:5125
+Otu213,0,0,0,0,0,0,0,0,38,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Boletales;Rhizopogonaceae;Rhizopogon;Rhizopogon_verii,Rhizopogon verii:345181
+Otu212,0,0,0,0,0,0,0,39,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Saccharomycetes;Saccharomycetales;Metschnikowiaceae;Clavispora;Clavispora_lusitaniae,Clavispora lusitaniae:36911
+Otu329,0,0,0,0,0,0,0,0,13,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Hypocreales;Unknown Hypocreales family 2,Hypocreales:5125
+Otu328,0,0,0,0,0,0,19,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Sordariomycetes;Conioscyphales;Unknown Conioscyphales family 1,Conioscyphales:1809179
+Otu490,5,0,0,0,0,0,0,0,0,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Unknown Fungi phylum 2,Fungi:4751
+Otu141,0,0,0,0,0,0,0,0,0,0,77,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Polyporales;Coriolaceae;Abortiporus;Abortiporus_biennis,Abortiporus biennis:137743
+Otu145,0,0,0,0,0,0,0,0,60,0,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Basidiomycota;Agaricomycetes;Boletales;Rhizopogonaceae;Rhizopogon,Rhizopogon:5375
+Otu15,0,0,16,0,0,0,0,0,0,1107,0,0,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Leotiomycetes;Helotiales;Sclerotiniaceae,Sclerotiniaceae:28983
+Otu10,0,0,0,0,0,0,0,0,1464,0,15,4,0,Cellular organisms;Eukaryota;Opisthokonta;Fungi;Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium,Penicillium:5073
