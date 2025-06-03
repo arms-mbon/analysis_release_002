@@ -5,5 +5,5 @@ In these parameter files are all the parameters that were set in PEMA. Note that
 
 To learn more about all other parameters that were set, read the respective parameter files.
 Note that the ENA run accession numbers of the sequences that were processed are not included in these parameter files: that information is contained in the
-*ADD LINK*, together with other relevant metadata. To know which of the parameter files listed here were used for any particular material sample / ENA sequence, you should also look at this overview file. 
+[pema_overview_COI_batch2.xlsx](https://github.com/arms-mbon/analysis_release_002/blob/main/pema_overview_batch2.xlsx), together with other relevant metadata. To know which of the parameter files listed here were used for any particular material sample / ENA sequence, you should also look at this overview file. 
 For more information on PEMA and its parameters, see [the PEMA GitHub repo](https://github.com/hariszaf/pema).
