@@ -5,11 +5,13 @@ For COI:
 
 The files called all_samples_xxx contain all the sequences inferred in all samples. The sequence identifiers are of the format ID;size=readAbundance. These are the input files for the clustering algorithm.
 The files called all_sequences_grouped_xxx contain the sequences remaining after chimera removal and clustering. The sequence identifiers are of the format ID_readAbundance.
+
 For 18S:
 
 The files called final_all_samples_xxx contain all the sequences inferred in all samples. The sequence identifiers are of the format ID_readAbundance. These are the input files for the clustering algorithm.
 The files called all_sequences_grouped_xxx contain contain the sequences remaining after chimera removal and clustering. The sequence identifiers are of the format OtuXY.
 The files called Aligned_assignments_xxx contain clustered sequences which could be assigned to any taxonomic level. The sequence identifiers are of the format OtuXY Main genome; Eukaryota;etc.
+
 For ITS:
 
 The files called all_samples_xxx contain all the sequences inferred in all samples. The sequence identifiers are of the format ID;size=readAbundance. These are the input files for the clustering algorithm.
