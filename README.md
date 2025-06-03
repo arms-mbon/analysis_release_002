@@ -15,7 +15,7 @@ PEMA was marker genes and MiSeq sequencing runs, and each PEMA run therefore has
 
 The full set of PEMA files (i.e., for all the ARMS-MBON processing we have done) can be found in [ARMS GitHub working space](https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema). This analysis_release_002 repository is specifically the subset of those results representing [processing_batch2](https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2).
 
-Note that the code used to analyse the taxonomic outputs of PEMA for this second data release can be found in (code_release_002)[https://github.com/arms-mbon/code_release_002).
+Note that the code used to analyse the taxonomic outputs of PEMA for this second data release can be found in [code_release_002](https://github.com/arms-mbon/code_release_002).
 
 Some of the PEMA processing metadata for the runs performed here. Further information can be found in the manuscript associated with data_release_002 and via the PEMA URL:
 | parameter | value |
