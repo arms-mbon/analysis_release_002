@@ -11,7 +11,7 @@ The sequence data were processed separately for marker genes and MiSeq sequencin
 * The read count and taxonomic assignment files output by PEMA
 * The fasta files output by PEMA
 
-PEMA was marker genes and MiSeq sequencing runs, and each PEMA run therefore has its own parameter, read count, taxonomic assignment, and fasta files. An overview of the processing - including the material sample IDs, ENA accession numbers, deployment dates and corresponding observatories etc. - from which one can identify which samples were processed in which group, is provided in *ADD LINK*
+PEMA was marker genes and MiSeq sequencing runs, and each PEMA run therefore has its own parameter, read count, taxonomic assignment, and fasta files. An overview of the processing - including the material sample IDs, ENA accession numbers, deployment dates and corresponding observatories etc. - from which one can identify which samples were processed in which group, is provided in [pema_overview_COI_batch2.xlsx](https://github.com/arms-mbon/analysis_release_002/blob/main/pema_overview_batch2.xlsx).
 
 The full set of PEMA files (i.e., for all the ARMS-MBON processing we have done) can be found in [ARMS GitHub working space](https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema). This analysis_release_002 repository is specifically the subset of those results representing [processing_batch2](https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2).
 
