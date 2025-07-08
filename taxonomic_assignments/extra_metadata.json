@@ -1,0 +1,1051 @@
+[{
+    "./": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "title": "analysis_release_002",
+        "contactPoint": [
+            "opsci@vliz.be",
+			{
+                "@id": "_:JustinePagnier"
+            },
+            {
+                "@id": "_:MatthiasObst"
+            },
+            {
+                "@id": "_:ChristinaPavloudi"
+            }
+        ],
+        "wasAssociatedWith": [
+            {
+                "@id": "_:MatthiasObst"
+            },
+            {
+                "@id": "_:KatrinaExter"
+            },
+            {
+                "@id": "_:ChristinaPavloudi"
+            }
+        ],
+        "creator": [
+		    {
+                "@id": "_:JustinePagnier"
+            },
+            {
+                "@id": "_:MatthiasObst"
+            },
+            {
+                "@id": "_:ChristinaPavloudi"
+            },
+            {
+                "@id": "_:HarisZafeiropoulos"
+            },
+            {
+                "@id": "_:ARMSProject"
+            },
+            {
+                "@id": "_:AssemblePlus"
+            }
+        ],
+        "publisher": {
+            "@id": "_:VLIZ"
+        },
+        "ContactPoint": [
+            "opsci@vliz.be",
+            "matthias.obst@marine.gu.se"
+        ],
+        "description": "The first analysis-data release for the ARMS-MBON project, for COI, 18S, and ITS marker genes. These are selected bioinformatics in/outputs from the PEMA processing of the material samples from 2018 until 2020. ",
+        "wasInfluencedBy": {
+            "@type": "SoftwareApplication",
+            "name": "PEMA",
+            "softwareVersion": "2.1.4",
+            "url": "https://github.com/hariszaf/pema/tree/v.2.1.4"
+        },
+        "dct:relation": [
+            "https://github.com/arms-mbon/data_release_002",
+            "https://github.com/arms-mbon/code_release_002"
+        ],
+        "keywords":[
+            "sample",
+            "measurement",
+            "biodiversity",
+            "long-term-changes",
+            "marine-environment",
+            "genetics",
+            "benthic-communities"
+        ],
+        "dcat:theme":[
+            {"@id":"http://semanticscience.org/resource/SIO_001050"},
+            {"@id":"http://purl.obolibrary.org/obo/ExO_0000067"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=2185"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=3505"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=1150"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=2365"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=2091"}
+        ],
+        "temporal": {
+            "start": "2020-01-31",
+            "end": "2021-11-15"
+        },
+        "spatialCoverage": [
+            {
+                "@id": "_:point_1"
+            },
+            {
+                "@id": "_:point_2"
+            },
+            {
+                "@id": "_:point_3"
+            },
+            {
+                "@id": "_:point_4"
+            },
+            {
+                "@id": "_:point_5"
+            },
+            {
+                "@id": "_:point_6"
+            },
+            {
+                "@id": "_:point_7"
+            },
+            {
+                "@id": "_:point_8"
+            },
+            {
+                "@id": "_:point_9"
+            },
+            {
+                "@id": "_:point_10"
+            },
+            {
+                "@id": "_:point_11"
+            },
+            {
+                "@id": "_:point_12"
+            },
+            {
+                "@id": "_:point_13"
+            },
+            {
+                "@id": "_:point_14"
+            },
+            {
+                "@id": "_:point_15"
+            },
+            {
+                "@id": "_:point_16"
+            },
+            {
+                "@id": "_:point_17"
+            },
+            {
+                "@id": "_:point_18"
+            },
+            {
+                "@id": "_:point_19"
+            },
+            {
+                "@id": "_:point_20"
+            },
+            {
+                "@id": "_:point_21"
+            },
+            {
+                "@id": "_:point_22"
+            },
+            {
+                "@id": "_:point_23"
+            },
+            {
+                "@id": "_:point_24"
+            },
+            {
+                "@id": "_:point_25"
+            },
+            {
+                "@id": "_:point_26"
+            },
+            {
+                "@id": "_:point_27"
+            },
+            {
+                "@id": "_:point_28"
+            },
+            {
+                "@id": "_:point_29"
+            },
+            {
+                "@id": "_:point_30"
+            },
+            {
+                "@id": "_:point_31"
+            },
+            {
+                "@id": "_:point_32"
+            },
+            {
+                "@id": "_:point_33"
+            },
+            {
+                "@id": "_:point_34"
+            },
+            {
+                "@id": "_:point_35"
+            },
+            {
+                "@id": "_:point_36"
+            },
+            {
+                "@id": "_:point_37"
+            },
+            {
+                "@id": "_:point_38"
+            },
+            {
+                "@id": "_:point_39"
+            },
+            {
+                "@id": "_:point_40"
+            },
+            {
+                "@id": "_:point_41"
+            },
+            {
+                "@id": "_:point_42"
+            },
+            {
+                "@id": "_:point_43"
+            },
+            {
+                "@id": "_:point_44"
+            },
+            {
+                "@id": "_:point_45"
+            },
+            {
+                "@id": "_:point_46"
+            },
+            {
+                "@id": "_:point_47"
+            },
+			{
+                "@id": "_:point_48"
+            },
+			{
+                "@id": "_:point_49"
+            },
+			{
+                "@id": "_:point_50"
+            },
+			{
+                "@id": "_:point_51"
+            },
+			{
+                "@id": "_:point_52"
+            },
+			{
+                "@id": "_:point_53"
+            },
+			{
+                "@id": "_:point_54"
+            },            
+			{
+                "@id": "_:point_55"
+            }
+        ],
+	},
+    "_:point_1": {
+        "@type": "Place",
+        "label": "Point 5",
+        "geo": {
+            "@id": "_:point_5"
+        },
+        "geoCoveredBy": "http://marineregions.org/mrgid/26567"
+    },
+    "_:point_9": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_9"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 9"
+    },
+    "_:Point_8": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_8"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 8"
+    },
+    "_:point_2": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_2"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 2"
+    },
+    "_:point_3": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_3"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 3"
+    },
+    "_:point_4": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_4"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 4"
+    },
+    "_:point_6": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_6"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 6"
+    },    
+	"_:point_7": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_7"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point_7"
+    },
+    "_:point_12": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_12"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40806"
+        },
+        "label": "Point 12"
+    },
+    "_:point_11": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_11"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40806"
+        },
+        "label": "Point 11"
+    },
+    "_:point_10": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_10"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40806"
+        },
+        "label": "Point 10"
+    },
+    "_:point_14": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_14"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/17355"
+        },
+        "label": "Point_14"
+    },
+    "_:point_18": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_18"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/17355"
+        },
+        "label": "Point_18"
+    },
+    "_:point_13": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_13"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/17355"
+        },
+        "label": "Point_13"
+    },
+    "_:point_15": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_15"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40020"
+        },
+        "label": "Point 15"
+    },
+    "_:point_16": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_16"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/27436"
+        },
+        "label": "Point 16"
+    },
+    "_:point_17": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_17"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/27436"
+        },
+        "label": "Point 17"
+    },
+    "_:point_20": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_20"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/27436"
+        },
+        "label": "Point 20"
+    },
+    "_:point_21": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_21"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24206"
+        },
+        "label": "Point 21"
+    },
+    "_:point_19": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_19"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24206"
+        },
+        "label": "Point 19"
+    },
+    "_:point_24": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_24"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24206"
+        },
+        "label": "Point_24"
+    },
+    "_:point_22": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_22"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/48617"
+        },
+        "label": "Point 22"
+    },
+    "_:point_23": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_23"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/29864"
+        },
+        "label": "Point 23"
+    },
+    "_:point_25": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_25"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/29864"
+        },
+        "label": "Point 25"
+    },
+    "_:point_35": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_35"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 35"
+    },
+    "_:point_36": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_36"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 36"
+    },
+    "_:point_47": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_47"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 47"
+    },
+	
+    "_:point_46": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_46"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 46"
+    },
+    "_:point_43": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_43"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 47"
+    },
+    "_:point_26": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_26"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28614"
+        },
+        "label": "Point 26"
+    },
+    "_:point_27": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_27"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28614"
+        },
+        "label": "Point 27"
+    },
+    "_:point_28": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_28"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28614"
+        },
+        "label": "Point 28"
+    },	
+    "_:point_29": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_29"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 29"
+    },
+    "_:point_30": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_30"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 30"
+    },
+    "_:point_31": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_31"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 31"
+    },
+    "_:point_32": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_32"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 32"
+    },
+    "_:point_33": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_33"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 33"
+    },
+    "_:point_34": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_34"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 34"
+    },
+    "_:point_37": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_43"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 37"
+    },
+    "_:point_38": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_38"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24056"
+        },
+        "label": "Point 38"
+    },
+    "_:point_39": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_39"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 39"
+    },
+    "_:point_40": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_40"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42108"
+        },
+        "label": "Point 40"
+    },
+    "_:point_41": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_41"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 41"
+    },
+    "_:point_42": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_42"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 42"
+    },
+    "_:point_44": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_44"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42012"
+        },
+        "label": "Point 44"
+    },
+    "_:point_45": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_45"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 45"
+    },
+    "_:point_48": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_48"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42108"
+        },
+        "label": "Point 48"
+    },
+    "_:point_49": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_49"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42108"
+        },
+        "label": "Point 49"
+    },
+    "_:point_50": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_50"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 50"
+    },
+    "_:point_51": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_51"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 51"
+    },
+    "_:point_52": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_52"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 52"
+    },
+    "_:point_53": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_53"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42056"
+        },
+        "label": "Point 53"
+    },
+    "_:point_54": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_54"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42012"
+        },
+        "label": "Point 54"
+    },
+    "_:point_55": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_55"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 55"
+    },	
+		"_:JustinePagnier": {
+        "@type": "Person",
+        "name": "Justine Pagnier",
+        "email": "justine.pagnier@gu.se",
+        "identifier": "https://orcid.org/0000-0002-6531-1374"
+        },
+        "_:MatthiasObst": {
+            "@type": "Person",
+            "name": "Matthias Obst",
+            "email": "matthias.obst@marine.gu.se",
+            "identifier": "https://orcid.org/0000-0003-0264-9631"
+        },
+        "_:KatrinaExter": {
+            "@type": "Person",
+            "name": "Katrina Exter",
+            "email": "katrina.exter@vliz.be",
+            "identifier": "https://orcid.org/0000-0002-5911-1536"
+        },
+        "_:ChristinaPavloudi": {
+            "@type": "Person",
+            "name": "Christina Pavloudi",
+            "email": "cpavloud@hcmr.gr",
+            "identifier": "https://orcid.org/0000-0001-5106-6067"
+        },
+        "_:ARMSProject": {
+            "@type": "Project",
+            "name": "ARMS-MBON",
+            "identifier": "https://arms-mbon.eu"
+        },
+        "_:AssemblePlus": {
+            "@type": "Project",
+            "name": "ASSEMBLE Plus",
+            "identifier": "https://cordis.europa.eu/project/id/730984"
+        },
+        "_:VLIZ": {
+            "@type": "Organization",
+            "name": "Flanders Marine Institute",
+            "url": "https://www.vliz.be/en"
+        },
+        "_:HarisZafeiropoulos": {
+            "@type": "Person",
+            "name": "Haris Zafeiropoulos",
+            "email": "haris.zafr@gmail.com",
+            "identifier": "https://orcid.org/0000-0002-4405-6802"
+        },
+        "./parameter_files/": {
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "The folder contataining the PEMA parameter files",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/"
+        },
+        "./fasta/": {
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/fasta",
+            "description": "The README in this folder contains a table with the download URLs to the fasta files for the COI processing",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./fasta/"
+        },
+        "./taxonomic_assignments/": {
+            "description": "The folder containing the PEMA output files with taxonomic assignements and ASV/OTUs",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments"
+        },
+        "./pema_overview_batch1.xlsx": {
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/blob/main/analysis_data/from_pema/processing_batch1/pema_overview_batch1.xlsx",
+            "description": "An overvew of in/output files from the PEMA processing",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./pema_overview_batch1.xlsx"
+        },
+        "./parameter_files/parameters0f.COI_April2021.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for COI processing in April2021",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.COI_April2021.tsv"
+        },
+        "./parameter_files/parameters0f.COI_Aug2023.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for COI processing in Aug2023",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.COI_Aug2023.tsv"
+        },
+        "./parameter_files/parameters0f.COI_Sep2020.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for COI processing in Sep2020",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.COI_Sep2020.tsv"
+        },
+        "./parameter_files/parameters0f.ITS_Apr2021.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for ITS processing in Apr2021",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.COI_Apr2021.tsv"
+        },
+        "./parameter_files/parameters0f.ITS_Sept2020.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for ITS processing in Sept2020",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.ITS_Sept2020.tsv"
+        },
+        "./parameter_files/parameters0f.18S_Aug2023.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for 18S processing in Aug. 2023",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.18S_Aug2023.tsv"
+        },
+        "./parameter_files/parameters0f.18S_Apr2021.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for 18S processing in Apr2021",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.18S_Apr2021.tsv"
+        },
+        "./parameter_files/parameters0f.18S_ARMS_Sep2020.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/parameter_files",
+            "description": "PEMA parameter files for 18S processing in Sep2020",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./parameter_files/parameters0f.18S_Sep2020.tsv"
+        },
+ 
+ 
+ 
+ 
+ 
+        "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank_TaxonomyFull.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the COI sequences produced in Aug. 2023, with taxonomy tidied up",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank_TaxonomyFull.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank_TaxonomyFull.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the COI sequences produced in April 2021, with taxonomy tidied up",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank_TaxonomyFull.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank_TaxonomyFull.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the COI sequences produced in Sept. 2020, with taxonomy tidied up",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank_TaxonomyFull.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the COI sequences produced in Aug. 2023",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the COI sequences produced in April 2021",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the COI sequences produced in Sept. 2020",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank.csv"
+        },			
+       "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank_TaxonomyCurated.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the 18S sequences produced in Aug. 2023, with taxonomy tidied up",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank_TaxonomyFull.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank_TaxonomyCurated.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the 18S sequences produced in April 2021, with taxonomy tidied up",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank_TaxonomyFull.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank_TaxonomyCurated.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the 18S sequences produced in Sept. 2020, with taxonomy tidied up",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank_TaxonomyFull.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the 18S sequences produced in Aug. 2023",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the 18S sequences produced in April 2021",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the 18S sequences produced in Sept. 2020",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank.csv"
+        },						
+		 "./taxonomic_assignments/Extended_final_table_April2021_ITS_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the ITS sequences produced in April 2021",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_April2021_ITS_noBlank.csv"
+        },
+        "./taxonomic_assignments/Extended_final_table_September2020_ITS_noBlank.csv": {
+            "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, number of reads, taxonomic assignments, for the ITS sequences produced in Sept. 2020",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/Extended_final_table_September2020_ITS_noBlank.csv"
+        },	
+        "./taxonomic_assignments/tax_assignments_April2021_COI_noBlank.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, full taxonomic classification with their confidence levels, for the COI sequences produced in April 2021",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/tax_assignments_April2021_COI_noBlank.tsv"
+        },
+        "./taxonomic_assignments/tax_assignments_August2023_COI_noBlank.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, full taxonomic classification with their confidence levels, for the COI sequences produced in August 2023",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/tax_assignments_August2023_COI_noBlank.tsv"
+        },
+        "./taxonomic_assignments/tax_assignments_September2020_COI_noBlank.tsv": {
+            "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
+            "wasDerivedFrom": "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1/taxonomic_assignments",
+            "description": "PEMA output OTU/ASV IDs, full taxonomic classification with their confidence levels, for the COI sequences produced in September 2020",
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/tax_assignments_September2020_COI_noBlank.tsv"
+        },		
+},
+{
+    "@id":"http://semanticscience.org/resource/SIO_001050",
+    "@type": "skos:Concept",
+    "skos:prefLabel": "sample"
+},
+{
+    "@id":"http://purl.obolibrary.org/obo/ExO_0000067",
+    "@type": "skos:Concept",
+    "skos:prefLabel": "measurement"
+},
+{
+    "@id":"https://vocabularyserver.com/asfa/?tema=2185",
+    "@type": "skos:Concept",
+    "skos:prefLabel": "Biodiversity"
+},
+{
+    "@id":"https://vocabularyserver.com/asfa/?tema=3505",
+    "@type": "skos:Concept",
+    "skos:prefLabel": "Long-term changes"
+},
+{
+    "@id":"https://vocabularyserver.com/asfa/?tema=1150",
+    "@type": "skos:Concept",
+    "skos:prefLabel": "Marine environment"
+},
+{
+    "@id":"https://vocabularyserver.com/asfa/?tema=2365",
+    "@type": "skos:Concept",
+    "skos:prefLabel": "Genetics"
+},
+{
+    "@id":"https://vocabularyserver.com/asfa/?tema=2091",
+    "@type": "skos:Concept",
+    "skos:prefLabel": "Benthic communities"
+}
+]
