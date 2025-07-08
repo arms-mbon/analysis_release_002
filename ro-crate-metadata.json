@@ -12,11 +12,281 @@
             }
         },
         {
+            "@id": "./taxonomic_assignments/",
+            "@type": "Dataset",
+            "label": "./taxonomic_assignments/",
+            "hasPart": [
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank_TaxonomyFull.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_April2021_ITS_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank_TaxonomyCurated.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank_TaxonomyFull.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/tax_assignments_September2020_COI_noBlank.tsv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_September2020_ITS_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank_TaxonomyCurated.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank_TaxonomyFull.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/README.md"
+                },
+                {
+                    "@id": "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank_TaxonomyCurated.csv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/tax_assignments_August2023_COI_noBlank.tsv"
+                },
+                {
+                    "@id": "./taxonomic_assignments/tax_assignments_April2021_COI_noBlank.tsv"
+                }
+            ]
+        },
+        {
+            "@id": "./parameter_files/",
+            "@type": "Dataset",
+            "label": "./parameter_files/",
+            "hasPart": [
+                {
+                    "@id": "./parameter_files/parameters0f.ITS_Apr2021.tsv"
+                },
+                {
+                    "@id": "./parameter_files/parameters0f.COI_Aug2023.tsv"
+                },
+                {
+                    "@id": "./parameter_files/parameters0f.ITS_Sep2020.tsv"
+                },
+                {
+                    "@id": "./parameter_files/parameters0f.18S_Apr2021.tsv"
+                },
+                {
+                    "@id": "./parameter_files/parameters0f.COI_Sep2020.tsv"
+                },
+                {
+                    "@id": "./parameter_files/parameters0f.18S_Sep2020.tsv"
+                },
+                {
+                    "@id": "./parameter_files/README.md"
+                },
+                {
+                    "@id": "./parameter_files/parameters0f.18S_Aug2023.tsv"
+                },
+                {
+                    "@id": "./parameter_files/parameters0f.COI_Apr2021.tsv"
+                }
+            ]
+        },
+        {
+            "@id": "./fasta/",
+            "@type": "Dataset",
+            "label": "./fasta/",
+            "hasPart": [
+                {
+                    "@id": "./fasta/README.md"
+                }
+            ]
+        },
+        {
             "@id": "./",
             "@type": "Dataset",
             "label": "./",
             "hasPart": [
+                {
+                    "@id": "./taxonomic_assignments/"
+                },
+                {
+                    "@id": "./parameter_files/"
+                },
+                {
+                    "@id": "./fasta/"
+                },
+                {
+                    "@id": "./LICENSE"
+                },
+                {
+                    "@id": "./pema_overview_batch2.xlsx"
+                }
             ]
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank_TaxonomyFull.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank_TaxonomyFull.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_April2021_ITS_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_April2021_ITS_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank_TaxonomyCurated.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank_TaxonomyCurated.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_August2023_COI_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank_TaxonomyFull.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_September2020_COI_noBlank_TaxonomyFull.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/tax_assignments_September2020_COI_noBlank.tsv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/tax_assignments_September2020_COI_noBlank.tsv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_September2020_ITS_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_September2020_ITS_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank_TaxonomyCurated.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_April2021_18S_noBlank_TaxonomyCurated.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank_TaxonomyFull.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank_TaxonomyFull.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_September2020_18S_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_April2021_COI_noBlank.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/README.md",
+            "@type": "File",
+            "label": "./taxonomic_assignments/README.md"
+        },
+        {
+            "@id": "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank_TaxonomyCurated.csv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/Extended_final_table_August2023_18S_noBlank_TaxonomyCurated.csv"
+        },
+        {
+            "@id": "./taxonomic_assignments/tax_assignments_August2023_COI_noBlank.tsv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/tax_assignments_August2023_COI_noBlank.tsv"
+        },
+        {
+            "@id": "./taxonomic_assignments/tax_assignments_April2021_COI_noBlank.tsv",
+            "@type": "File",
+            "label": "./taxonomic_assignments/tax_assignments_April2021_COI_noBlank.tsv"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.ITS_Apr2021.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.ITS_Apr2021.tsv"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.COI_Aug2023.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.COI_Aug2023.tsv"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.ITS_Sep2020.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.ITS_Sep2020.tsv"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.18S_Apr2021.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.18S_Apr2021.tsv"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.COI_Sep2020.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.COI_Sep2020.tsv"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.18S_Sep2020.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.18S_Sep2020.tsv"
+        },
+        {
+            "@id": "./parameter_files/README.md",
+            "@type": "File",
+            "label": "./parameter_files/README.md"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.18S_Aug2023.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.18S_Aug2023.tsv"
+        },
+        {
+            "@id": "./parameter_files/parameters0f.COI_Apr2021.tsv",
+            "@type": "File",
+            "label": "./parameter_files/parameters0f.COI_Apr2021.tsv"
+        },
+        {
+            "@id": "./fasta/README.md",
+            "@type": "File",
+            "label": "./fasta/README.md"
+        },
+        {
+            "@id": "./LICENSE",
+            "@type": "File",
+            "label": "./LICENSE"
+        },
+        {
+            "@id": "./pema_overview_batch2.xlsx",
+            "@type": "File",
+            "label": "./pema_overview_batch2.xlsx"
         }
     ]
 }
