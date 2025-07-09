@@ -849,9 +849,9 @@
             "description": "The folder containing the PEMA output files with taxonomic assignements and ASV/OTUs",
             "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./taxonomic_assignments/",
         },
-        "./pema_overview_batch1.xlsx": {
+        "./pema_overview_batch2.xlsx": {
             "description": "An overvew of in/output files from the PEMA processing",
-            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./pema_overview_batch1.xlsx"
+            "downloadURL": "https://data.arms-mbon.org/analysis_release_002/latest/#./pema_overview_batch2.xlsx"
         },
         "./parameter_files/parameters0f.COI_April2021.tsv": {
             "encodingFormat": "https://www.iana.org/assignments/media-types/text/tab-separated-values",
