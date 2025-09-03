@@ -52,7 +52,7 @@
             "opsci@vliz.be",
             "matthias.obst@marine.gu.se"
         ],
-        "description": "The first analysis-data release for the ARMS-MBON project, for COI, 18S, and ITS marker genes. These are selected bioinformatics in/outputs from the PEMA processing of the material samples from 2018 until 2020. ",
+        "description": "The second analysis-data release for the ARMS-MBON project, for COI, 18S, and ITS marker genes. These are selected bioinformatics in/outputs from the PEMA processing of the material samples from 2018 until 2020. ",
         "wasInfluencedBy": {
             "@type": "SoftwareApplication",
             "name": "PEMA",
