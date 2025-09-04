@@ -25,6 +25,10 @@ Some of the PEMA processing metadata for the runs performed here. Further inform
 | ref database for taxonomy assignment | Midori v2.0 (COI),  PR2 v.4.13.0 (18S), Unite v7.2 (ITS)| 
 | clustering algorithm | Swarm v2 (COI, ITS), VSEARCH v2.9.1 (18S) | 
 
+### Post PEMA contaminant removal
+
+We applied post-PEMA contaminant filtering with **decontam** (R) using run-specific negative controls and the prevalence method. ASVs flagged as contaminants were removed prior to downstream analyses. Detailed scripts are provided in [code_release_002](https://github.com/arms-mbon/code_release_002).
+
 
 
 
